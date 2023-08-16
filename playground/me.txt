@@ -1,5 +1,0 @@
-{{#user}
-Name: Gaurav Singh
-Skills: HTML, CSS, JS, C++
-Email: gauravelcta21@gmail.com
-{{/user}}
